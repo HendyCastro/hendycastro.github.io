@@ -11,10 +11,10 @@
     
 }
 .foto{
-    width: 300px;
-    height: 350px;
-    border-radius: 70px;
-    box-shadow: 10px 10px 10px rgb(148, 5, 117);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px rgb(148, 5, 117);
 }
 .row-c{
     background-color: rgb(148, 5, 117);
